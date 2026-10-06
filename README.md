@@ -46,5 +46,4 @@ Currently enhancing my Python data analysis skills to automate workflows and per
 - **Location:** Mansoura, Egypt
 ### 🐍 Contribution Graph
 
-![Snake animation](https://github.com/fareswael138-bit/fareswael138-bit/blob/output/github-contribution-grid-snake.svg)
-ج
+![Snake animation](https://github.com/fareswael138-bit/fareswael138-bit/blob/output/github-contribution-grid-snake.svg)ج
