@@ -1,7 +1,5 @@
 # Hi there, I'm Fares Wael 👋
-
-![Uploading FullSizeRender.jpeg…]()
-
+<img width="3213" height="5712" alt="FullSizeRender" src="https://github.com/user-attachments/assets/e8ed975b-af1b-49da-b410-83a0dad61bf4" />
 
 ### 📊 Junior Data Analyst | Passionate about Data, Insights & Dashboards
 
