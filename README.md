@@ -44,3 +44,7 @@ Currently enhancing my Python data analysis skills to automate workflows and per
 ### 📫 Connect with Me
 - **LinkedIn:** [Fares Wael Profile](https://www.linkedin.com/in/fares-wael-6b477040a)
 - **Location:** Mansoura, Egypt
+### 🐍 Contribution Graph
+
+![Snake animation](https://github.com/fareswael138-bit/fareswael138-bit/blob/output/github-contribution-grid-snake.svg)
+
