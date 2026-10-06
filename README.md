@@ -8,10 +8,12 @@ I am a fourth-year Information Technology student at Mansoura University with a 
 
 ### 🧠 Tech Stack & Core Tools
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C94C?style=flat-square&logo=analytics&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Looker" />
+</p>
 
 This is my main domain: Cleaning datasets, building interactive dashboards, analyzing business KPIs, and managing relational database schemas.
 
@@ -19,9 +21,11 @@ This is my main domain: Cleaning datasets, building interactive dashboards, anal
 
 ### 🧪 Still Learning & Expanding
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
 
 Currently enhancing my Python data analysis skills to automate workflows and perform exploratory data analysis (EDA).
 
